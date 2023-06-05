@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.target=DVD
+comment0.text=This\ is\ the\ DVD\ media\ sub-class\ that\ inherits\ attributes\ from\ the\ \r\nsuperclass\ MediaDisk
+comment1.params=
+comment1.target=DVD()
+comment1.text=Constructors
+comment2.params=rentTime\ rentCharge\ mediaDiskName\ mediaDiskPlayback\ DVDprice
+comment2.target=DVD(int,\ double,\ java.lang.String,\ int,\ double)
+comment2.text=Full\ constructor
+comment3.params=
+comment3.target=double\ getDVDprice()
+comment3.text=Getter\ method
+comment4.params=DVDprice
+comment4.target=void\ setDVDprice(int)
+comment5.params=
+comment5.target=double\ calRentAmount()
+comment5.text=Abstract\ method\ from\ the\ super\ class.
+comment6.params=g
+comment6.target=int\ compareTo(MediaDisk)
+comment6.text=compareTo\ method\ to\ be\ used\ to\ sort\ and\ filter\ the\ media\ disk\ in\ MyArrayList\ class
+comment7.params=
+comment7.target=java.lang.String\ toString()
+comment7.text=toString\ method\ to\ be\ used\ in\ the\ main\ class
+numComments=8

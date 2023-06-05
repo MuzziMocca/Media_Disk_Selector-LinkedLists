@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Audio
+comment0.text=This\ is\ the\ Audio\ media\ sub-class\ that\ inherits\ attributes\ from\ the\ \r\nsuperclass\ MediaDisk
+comment1.params=
+comment1.target=Audio()
+comment1.text=Constructors
+comment2.params=rentTime\ rentCharge\ mediaDiskName\ mediaDiskPlayback\ AUDIOprice
+comment2.target=Audio(int,\ double,\ java.lang.String,\ int,\ double)
+comment2.text=Full\ constructor
+comment3.params=
+comment3.target=double\ getAUDIOprice()
+comment3.text=Getter\ method
+comment4.params=AUDIOprice
+comment4.target=void\ setAUDIOprice(int)
+comment4.text=Setter\ method
+comment5.params=
+comment5.target=double\ calRentAmount()
+comment5.text=Abstract\ method\ from\ the\ super\ class.
+comment6.params=g
+comment6.target=int\ compareTo(MediaDisk)
+comment6.text=compareTo\ method\ to\ be\ used\ to\ sort\ and\ filter\ the\ media\ disk\ in\ MyArrayList\ class
+comment7.params=
+comment7.target=java.lang.String\ toString()
+comment7.text=toString\ method\ to\ be\ used\ in\ the\ test\ class
+numComments=8
